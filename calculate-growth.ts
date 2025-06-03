@@ -1,0 +1,1 @@
+(placeholder for /api/calculate-growth.ts — replaced later)
